@@ -10,6 +10,7 @@ const int m = 1e9 + 7;
 
 vector<int> f, fi;
 
+// code for binary exponentiation
 long long binpow(long long a, long long b) {
     a %= m;
     long long res = 1;
