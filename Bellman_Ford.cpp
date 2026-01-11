@@ -2,7 +2,6 @@
 using namespace std;
 #define inf 100000
 
-//Bellman Ford Algorithm
 int main(){
     int n,e;
     cin>>n>>e;
